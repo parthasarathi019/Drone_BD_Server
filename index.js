@@ -169,4 +169,3 @@ app.listen(port, () => {
 })
 
 //http://localhost:9000/mydrones?email=djicorp@gmail.com
-////
