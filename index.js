@@ -168,5 +168,4 @@ app.listen(port, () => {
   console.log(`Drone Bd is running on port ${port}`)
 })
 
-// http://localhost:9000/mydrones?=email@gmail.com
 //http://localhost:9000/mydrones?email=djicorp@gmail.com
